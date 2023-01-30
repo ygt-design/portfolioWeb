@@ -1,0 +1,210 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+
+    font-size: 1.18rem;
+}
+
+.container {
+    display: flex;
+}
+
+.container2 {
+    width: 30vw;
+    height: 50vh;
+    margin-left: 10;
+    margin-right: auto;
+    /* margin-top: -1rem; */
+    /* background-color: blue; */
+}
+
+.side {
+    flex: 4;
+    height: 100vh;
+    overflow: scroll;
+}
+
+.content {
+    flex: 6;
+    height: 100vh;
+    overflow: scroll;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    font-style: italic;
+    font-size: 1.5rem;
+    /* letter-spacing: .04rem; */
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+}
+
+.gd {
+    margin-top: 1vh;
+    padding-bottom: 4vh;
+}
+
+ol {
+    margin-left: 3rem;
+}
+
+li {
+    line-height: 1.6rem;
+}
+
+a {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    text-decoration: none;
+}
+
+li :hover {
+    color: black;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: black;
+}
+
+.logo {
+    margin: 3vw;
+    margin-left: 4vw;
+    padding-bottom: 2vh;
+}
+
+.logo h1:hover {
+    text-decoration: underline;
+}
+
+.projects {
+    margin: 3vw;
+    margin-left: 4vw;
+    margin-top: -1.5rem;
+}
+
+.projects h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 4.2rem;
+}
+
+.obliteration {
+    width: 58vw;
+    height: 75vh;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+
+    background-image: url("./images/IMG_3114.jpg");
+    background-size: cover;
+}
+
+.bodyS {
+    width: 58vw;
+    height: 75vh;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+
+    background-image: url("./images/BodyAndStory.JPG");
+    background-size: cover;
+}
+
+.emperor {
+    width: 58vw;
+    height: 75vh;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+
+    background-image: url("./images/emperora.jpg");
+    background-size: cover;
+}
+
+.emperorW {
+    width: 58vw;
+    height: 75vh;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+
+    background-image: url("./images/laptopWeb.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.cree {
+    width: 58vw;
+    height: 75vh;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+
+    background-image: url("./images/Cree.JPG");
+    background-size: cover;
+}
+
+.wood {
+    width: 58vw;
+    height: 75vh;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+
+    background-image: url("./images/woodTypeFinal.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.fr {
+    width: 58vw;
+    height: 75vh;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+
+    background-image: url("./images/fr_.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.story {
+    width: 58vw;
+    height: 75vh;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+
+    background-image: url("./images/daggerBody.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.distorted {
+    width: 58vw;
+    height: 75vh;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+
+    background-image: url("./images/Map_04_page-0001.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.experimentation {
+    width: 58vw;
+    height: 75vh;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+
+    background-image: url("./images/handwritten.JPG");
+    background-size: 150%;
+    background-position: center;
+}
